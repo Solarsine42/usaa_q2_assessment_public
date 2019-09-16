@@ -1,0 +1,8 @@
+body {
+  background-image: url("../src/components/utility/escheresque.png");
+}
+#homeImg {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
